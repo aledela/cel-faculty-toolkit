@@ -1,10 +1,21 @@
-Update: This original website is no longer active since it was created for a community organization as part of a class that has ended. The purpose of this repository is to show my contributions. I initially collaborated with other students and the client to create a website that met their needs.
-
 # Community Engagement Toolkit website for CSC-324(Fall 2020)
 
-Visit the current web app [here](https://cel-toolkit.herokuapp.com/).
+Update: The original website is no longer active since it was created for a community organization as part of a class that has ended. The purpose of this repository is to show my contributions. I initially collaborated with other students and the client to create a website that met their needs.
+Below are images of what the site looked like:
+
+![Home Page](https://user-images.githubusercontent.com/73913950/226215981-1eece25c-45e5-4eb1-bc04-8f81d0a1f97c.png)
+
+![Community Partners page map](https://user-images.githubusercontent.com/73913950/226216505-0fb5b059-ca25-4174-a341-0886a81a28e7.png)
+
+![Community Partners page 2 list](https://user-images.githubusercontent.com/73913950/226215979-0be53d40-6209-43e8-819b-7f0c6e22dc66.png)
+
+![Syllabi Database](https://user-images.githubusercontent.com/73913950/226216615-2f0ac66e-6924-4fde-81cc-c0271e538f9c.png)
+
+![Resources Page](https://user-images.githubusercontent.com/73913950/226215983-0c2acd75-bbff-42fd-b214-bf2d8840abd9.png)
 
 ## 1. Introduction
+
+Visit the current web app [here](https://cel-toolkit.herokuapp.com/).
 
 ### Background and purpose:
 
