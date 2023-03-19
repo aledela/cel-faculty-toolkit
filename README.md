@@ -108,3 +108,4 @@ Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
 All content belongs to Grinnell College. 
+# cel-faculty-toolkit
