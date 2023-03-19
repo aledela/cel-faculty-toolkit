@@ -1,8 +1,10 @@
-# Community Engagement Toolkit website for CSC-324
+Update: This original website is no longer active since it was created for a community organization as part of a class that has ended. The purpose of this repository is to show my contributions. I initially collaborated with other students and the client to create a website that met their needs.
+
+# Community Engagement Toolkit website for CSC-324(Fall 2020)
 
 Visit the current web app [here](https://cel-toolkit.herokuapp.com/).
 
-## 1. Introduction 
+## 1. Introduction
 
 ### Background and purpose:
 
@@ -36,14 +38,14 @@ This project consists of glossary, search and many different static pages. In st
 
 ○ 	[Github](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github)
 
-You can either use your local machine or cloud environment. However, it's highly recommended to use [Amazon Cloud 9](https://aws.amazon.com/cloud9/) to work on this project that satisfy most of the above development prequesites. 
+You can either use your local machine or cloud environment. However, it's highly recommended to use [Amazon Cloud 9](https://aws.amazon.com/cloud9/) to work on this project that satisfy most of the above development prequesites.
 
 ### Getting started:
 
 To get started with the project, first clone the repo and `cd` into the directory:
 
 ```
-$ git clone https://github.com/CSC322-Grinnell/cel-faculty-toolkit
+$ git clone https://github.com/aledela/cel-faculty-toolkit.git
 $ cd toolkit_app
 ```
 
@@ -107,5 +109,5 @@ Learn Web Development with Rails*](https://www.railstutorial.org/)
 (6th Edition)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
-All content belongs to Grinnell College. 
+All content belongs to Grinnell College.
 # cel-faculty-toolkit
